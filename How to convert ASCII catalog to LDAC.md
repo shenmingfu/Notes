@@ -10,4 +10,6 @@ Then add/modify data/format: http://docs.astropy.org/en/stable/io/fits/
 
 Table data: http://docs.astropy.org/en/stable/io/fits/usage/table.html
 
+FITS: http://www.astro.sunysb.edu/fwalter/AST443/fits.html
+
 5. 
