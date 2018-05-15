@@ -5,7 +5,7 @@
 3. For data table: http://docs.astropy.org/en/stable/table/
 
 4. About Theli: SExtractor can save ldac (LDAC_IMHEAD - LDAC_OBJECTS).
-Then add/modify data/format.
-e.g. 
+Then add/modify data/format: http://docs.astropy.org/en/stable/io/fits/
+http://docs.astropy.org/en/stable/io/fits/usage/table.html
 
 5. 
