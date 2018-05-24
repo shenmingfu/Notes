@@ -16,6 +16,9 @@ Choose items we need and comment others. Or just generate a new file with items 
 NUMBER                                                                                                                         
 X_IMAGE
 Y_IMAGE
+X2_IMAGE
+Y2_IMAGE
+XY_IMAGE
 FLUX_BEST
 MAG_BEST
 FLUX_RADIUS
