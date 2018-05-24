@@ -4,7 +4,7 @@ sex -d > somename.sex
 ```
 or full list
 ```
-sex -d > somename.sex
+sex -dd > somename.sex
 ```
 
 2. Generate a list of output items. 
