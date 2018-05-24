@@ -2,7 +2,7 @@
 ```
 sex -d > somename.sex
 ```
-or full list
+Or full list
 ```
 sex -dd > somename.sex
 ```
@@ -11,7 +11,8 @@ sex -dd > somename.sex
 ```
 sex -dp > somename.param
 ```
-Choose items we need and comment others. Or just generate a new file with items we need, e.g. 
+Choose items we need and comment out others with '#'. 
+Or just generate a new file with items we need, e.g. 
 ```
 NUMBER                                                                                                                         
 X_IMAGE
